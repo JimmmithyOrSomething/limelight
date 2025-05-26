@@ -4,7 +4,7 @@ So I got a lot done today, I worked on my code a bunch.
 
 The first thing I did was I wrote the code that does a much better job a detecting changes in the drinks to get more accurate and faster results. After this I programed a strobing function for the ring light I'm using which will hopfully be more noticable (Still unsure if this will work well on the real light but works fine online for now). Then I started to put in a button for power controle but then I thought that it was smarter to just wire the button directly into the power line on the PCB so I'm skiping this for now. Then I looked into how I'll go about getting the battery level information. I added a feature where the ring light could show power levels via lighting up more lights when the battery level is higher.(This is working great in my simulation but beucase I don't have acual simulateable battires I'm using a potentiometer and a math formula)
 
-I also looked into what MCU I'm going to use and I think that an ESP 32 is going to be the choice
+I also looked into what MCU I'm going to use and I think that an ESP 32 is going to be the choice. And I looked into how to safely work the battery beucase this is the first PCB i've made with a battery  and I'd really like not to fry it.
 
 I'm tired... time to watch community
 
