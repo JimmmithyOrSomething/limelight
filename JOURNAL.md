@@ -6,6 +6,8 @@ The first thing I did was I wrote the code that does a much better job a detecti
 
 I also looked into what MCU I'm going to use and I think that an ESP 32 is going to be the choice
 
+I'm tired... time to watch community
+
 May 23:
 This was an important day, today I fully commited to this project despite having some doubts
 
