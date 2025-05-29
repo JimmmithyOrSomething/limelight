@@ -1,3 +1,18 @@
+May 29th:
+Today I started doing more research into the FFT to be able to interprate my data into something that I can actualy work with.
+
+May 27 - 28th:
+(please ignore spelling I'm tired)
+I was sick for these two days so I can't really expect to get much done but I did start some research on how this whole thing will work and how I need to process the data. I know that becuase I'm going to be getting a bunch of 12 bit values from the sensors I need an FFT to be able to understand what the data means then I can convert it into Hz which I can work with. (I also thought about looking into some ML beucase I need to be able to recognise patterns but I'll probably wait for V2 to do that with a more powerfull MCU and a few other upgrades) 
+
+May 26th:
+Today I realised that this project won't work beucase I've been looking at the physics all wrong and if I really wanted to have a chance at this I would need alot more money and a full on lab, neither of which I have. 
+
+But I also came up with a new idea so YAY :) . Basicaly my new idea is part one of a two part plan I'm hoping to make both parts durring Highway but that might not happen so both parts are useable seprately. My idea is a pair of glasses hooked up to EEG pads connected to a PCB with something like an ESP 32 processor running some clever math to hopefully be able to tell what state the users brain is in. (I do understand that I won't be getting very acurate readings but this is just the orignal version of something I'm hopeing to make a more complex version of in the years to come, I already have ideas of how to make this much more accurate but I'm keeping it simple for V1) 
+
+The formfactor for these is going to hopefully be a pair of glasses with a few sensor pads on them and I think they will be able to serve a bunch of diffrent perposes like reminding the user if they stop paying attention (which happens to me when I'm tired). But mostly these are going to be a learing expierance and hopefully a really cool project. 
+
+IGNORE EVERYTHING FROM HERE DOWN///////////////////////////////////////////////////////////////////////////////////////////
 May 25th:
 (this is going to have so many misspellings I'm really tired)
 So I got a lot done today, I worked on my code a bunch.  
