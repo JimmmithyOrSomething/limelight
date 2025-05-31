@@ -2,10 +2,14 @@ May 31st:
 So today i started to work on my simulated brain to get frimware working and my ESP 32 won't work, I'm working on fixing it or getting another but for now I'm using my nano 33 ble. 
 I got to work and got the brain working to send changes in voltage back from the potentimeters(picutred below). Then I got started on my FFT which I was really dreading but it ended up not being as bad as I thought althought I spent probably 3 hours on it. Then I started working on how I'll read the data as of the time I'm writing this it's gone ok but I need to do a lot more work before it's readable, I'll probably put some more time into it in a little bit.
 
+Ok, now I've done some more work and integrated both of my pots into the code as well as allowing it figure out what state the brain is in. for now I'm just avg the values between the two pots then running the FFT on both of them but I might change this after I can acutaly get the parts. 
+
+I've also started to think about adding in muscle controle that can detect tensing of muscles beucase I need to buy the electrodes in bulk anyway so adding a little more to the PCB to allow for much more functionality will deffinetly be woth it.
+
 ![IMG_1279](https://github.com/user-attachments/assets/1a2e2176-7881-4ac7-9307-4367601c1d9b)
 
 
-Total time spent: 4.5h
+Total time spent: 6h
 
 
 May 30th:
