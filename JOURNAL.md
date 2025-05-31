@@ -1,5 +1,12 @@
 May 29th:
-Today I started doing more research into the FFT to be able to interprate my data into something that I can actualy work with.
+Today I started doing more research into the FFT to be able to interprate my data into something that I can actualy work with. (my journal for today got deleted so im just going to sum it up)
+
+I was going to use an ESP MCU for this project but then I relised that it would be way more money then I need to spend on this if I allready had a dev board so I'll stick with this for now plus this will be much more flexable to work with.
+
+I looked into what electodes i'll need because I've never worked with them before, I have a few diffrent way I caan go about this but nothing set in stone yet.
+
+I started to build a fake brain for the esp 32 to look at insted of an acutal brain for now so I can make a test version of my firmware and then upgrade when I get the rest of the parts.
+I can't get my ESP to connect well and I have spent 2 hours trying to get this to work.
 
 May 27 - 28th:
 (please ignore spelling I'm tired)
