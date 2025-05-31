@@ -5,7 +5,9 @@ I got to work and got the brain working to send changes in voltage back from the
 ![IMG_1279](https://github.com/user-attachments/assets/1a2e2176-7881-4ac7-9307-4367601c1d9b)
 
 
-**Total time spent: 4.5h**
+Total time spent: 4.5h
+
+
 May 30th:
 Today I started doing more research into the FFT to be able to interprate my data into something that I can actualy work with. (my journal for today got deleted so im just going to sum it up)
 
