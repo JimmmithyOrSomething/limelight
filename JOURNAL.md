@@ -1,7 +1,11 @@
 May 31st:
+So today i started to work on my simulated brain to get frimware working and my ESP 32 won't work, I'm working on fixing it or getting another but for now I'm using my nano 33 ble. 
+I got to work and got the brain working to send changes in voltage back from the potentimeters(picutred below). Then I got started on my FFT which I was really dreading but it ended up not being as bad as I thought althought I spent probably 3 hours on it. Then I started working on how I'll read the data as of the time I'm writing this it's gone ok but I need to do a lot more work before it's readable, I'll probably put some more time into it in a little bit.
+
+![IMG_1279](https://github.com/user-attachments/assets/1a2e2176-7881-4ac7-9307-4367601c1d9b)
 
 
-**Total time spent: 3h**
+**Total time spent: 4.5h**
 May 30th:
 Today I started doing more research into the FFT to be able to interprate my data into something that I can actualy work with. (my journal for today got deleted so im just going to sum it up)
 
