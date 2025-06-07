@@ -1,4 +1,7 @@
 (Most of these logs are writen late at night so please diregarde my spelling)
+June 1s:
+I did a ton today, i finished my fake brain and confirmed my choice to intergrate muscles.
+
 
 May 31st:
 So today i started to work on my simulated brain to get frimware working and my ESP 32 won't work, I'm working on fixing it or getting another but for now I'm using my nano 33 ble. 
