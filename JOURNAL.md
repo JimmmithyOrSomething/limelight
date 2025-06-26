@@ -9,11 +9,13 @@ june 24th:
 
 so today was the first time I've worked in a while as you can see by the date it's been probably 3 weeks I've had a ton going on with school so I haven't been able to get too much done. But today I continued working on my amplifier circuit and it honestly didn't go too well it didn't go horribly but I'm just I got kind of lost part way through and I'm sort of working to get back in the rhythm of really being on top of everything that's going on but not entirely sure how it's going to go up till now. I've also made the decision to make one modifiable circuit that I can use  different versions of for both the brain wave readers and the muscle signal readers which will allow me to obviously order less but it does make the circuit more complicated so I'm going to have to go back and take out a bunch of the resistors and instead add in SMD pads which I can then solder the right resistors and capacitors directly onto so make it a little more complicated but ultimately make it more efficient in the end. I did just send a request into the slack chat for someone to take a look at my circuit so that way I can feel a little more confident in it before it's time to finalize an order. Also my ESP 32 board started working again I'm not exactly sure what the problem is but my connections must much more stable so I'm gonna go with that for now.  
 
+<img width="709" alt="image" src="https://github.com/user-attachments/assets/19877bb1-566d-4d98-b1e2-382db3e39c74" />
+
 Total time spent: 5h
 
 
 June 1s:
-I did a ton today, i finished my fake brain and confirmed my choice to intergrate muscles, then i started on the PCB and got a bunch done it went farily smooth but not to much happen that I need to report, It will definetly need a lot more work but I got a fair bit done. I really want to write more but I don't have much to say.
+Today I finished my fake brain and confirmed my choice to intergrate muscles, then i started on the PCB and got a bunch done it went farily smooth but not to much happen that I need to report, It will definetly need a lot more work but I got a fair bit done. I really want to write more but I don't have much to say.
 
 Total time spent: 3h
 
