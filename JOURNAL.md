@@ -1,5 +1,17 @@
 (Most of these logs are writen late at night so please diregarde my spelling)
-Jue 25th:
+June 28th:
+Today I chose to take a break from working on my pcb and I started on my cadrender i'm building a pair of glasses that will hold all the electrodes I started by making a 3D model of my head and then I used an I calibrated image to scale it to the right point. Then I built a pair of glasses around it and printed them out this was just an initial test to see if I could do that all and it came up pretty well it took me longer than expected because I ran into some scaling issues along the way but ultimately I got it next time I'm planning on adding the electrode pads into the right place and I'm going to print another version I need to make the your attachments a little smaller and make it a little more rounded so it's not jabbing me in the nose but I did get pretty close and I'm pretty happy with it.
+
+total time spent: 3.5h
+
+![Screenshot 2025-06-27 180422](https://github.com/user-attachments/assets/8354d242-62d0-4918-abd0-a136885cc500)
+
+June 26th:
+Today I didnt do too much I went into my pcb and continued working on it trying to get it to the best of my confidence that it will work I definitely have some more viewing to do but I really feel like I'm getting close with this.
+
+Total time spent: 1h
+
+June 25th:
 so today went pretty well i'm starting to feel more confident in my amp circuit much more confident than yesterday I started working on taking out all the pieces that will make it specific to either the EEG or EMG this way the board can use both types of readings I also took out the rails that I was originally gonna have the board plugin to because now that I'm gonna have five boards they can't all plug into the rails at once so I'm just gonna wire from the board into the ESP directly. I started trying to make a digital simulation for my circuit but kind of gave up halfway through it wasn't really going very well I haven't decided if I'll go back to it or not at this point I guess I'll see how the next few days go for tomorrow i'm going to remove all the specific resistors and capacitors that will hurt the performance of either the EEG or EMG and replace them with through holes but I think I'm getting pretty close to being able to start ordering parts.
 
 Total Time spent: 3h
