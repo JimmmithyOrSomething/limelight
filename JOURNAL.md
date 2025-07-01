@@ -1,7 +1,7 @@
 (Most of these logs are writen late at night so please disregarde my spelling)
 June 30th:
 
-
+So I had a pretty good day today I had to make some changes to my initial glasses design some parts were way too sharp so I gave them a more rounded design I had to design a way to attach the arms of the glasses to the actual frames which I think went pretty well initially I was going to build in a hinge they could collapse but that just seemed inefficient considering they're not a real pair of glasses. I printed out the test version for them and they are more comfortable to wear except for the fact that I used a different type of build plate adhesion which does make them more rough so I'm going to have to figure out something for that eventually but for now it's not a big deal. I also got started on putting in electrode plates I did the back ones that are going to attach behind the ear and I'm going to do the other two most likely tomorrow. In all I think it was a pretty successful day.
 
 
 ![WIN_20250701_15_15_57_Pro](https://github.com/user-attachments/assets/300e9c50-fe27-458d-9f45-da989568d0ba)
