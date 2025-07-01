@@ -1,6 +1,16 @@
-(Most of these logs are writen late at night so please diregarde my spelling)
+(Most of these logs are writen late at night so please disregarde my spelling)
+June 30th:
+
+
+
+
+![WIN_20250701_15_15_57_Pro](https://github.com/user-attachments/assets/300e9c50-fe27-458d-9f45-da989568d0ba)
+
+
+total time spent: 3h
+
 June 28th:
-Today I chose to take a break from working on my pcb and I started on my cadrender i'm building a pair of glasses that will hold all the electrodes I started by making a 3D model of my head and then I used an I calibrated image to scale it to the right point. Then I built a pair of glasses around it and printed them out this was just an initial test to see if I could do that all and it came up pretty well it took me longer than expected because I ran into some scaling issues along the way but ultimately I got it next time I'm planning on adding the electrode pads into the right place and I'm going to print another version I need to make the your attachments a little smaller and make it a little more rounded so it's not jabbing me in the nose but I did get pretty close and I'm pretty happy with it.
+Today I chose to take a break from working on my pcb and I started on my cad render i'm building a pair of glasses that will hold all the electrodes I started by making a 3D model of my head and then I used an I calibrated image to scale it to the right point. Then I built a pair of glasses around it and printed them out this was just an initial test to see if I could do that all and it came up pretty well it took me longer than expected because I ran into some scaling issues along the way but ultimately I got it next time I'm planning on adding the electrode pads into the right place and I'm going to print another version I need to make the your attachments a little smaller and make it a little more rounded so it's not jabbing me in the nose but I did get pretty close and I'm pretty happy with it.
 
 total time spent: 3.5h
 
