@@ -1,6 +1,8 @@
 (Most of these logs are writen late at night so please disregarde my spelling)
 July 1st: 
+I didn't have much free time today but I did spend some time making another set of arms that will hold the GND electrodes on the glasses, I used 3d sketch in fusion to do that and made is to the arms curve inward towards the person's forehead, I still need to make one more set which I will do next time.
 
+total time spent 45m
 
 June 30th:
 
