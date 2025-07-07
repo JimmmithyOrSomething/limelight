@@ -1,5 +1,16 @@
 (Most of these logs are writen late at night so please disregarde my spelling)
+July 6th:
 
+I also didn't have much time today but i got some stuff done, I cleaned up my PCB connections and eddited the decoupling set up so it will hopefully work better.
+
+total time spent 30m
+![Screenshot 2025-07-06 142955](https://github.com/user-attachments/assets/1e5d802f-c44a-4b46-b713-a0d90d31dcc7)
+
+
+july 5th: 
+I didn't have too much time today but I went back into my PCB and got some work done on it making a few small changes and checking it over I'm getting really close to done.
+
+total time spent 1h;
 July 3rd:
 I didn't have a ton of time today, but I made the set of arms that attaches. The second set of active electrodes onto the sides of the top of the head. This wasn't very difficult. It was about the same as making the other arms. I need a little bit of tweaking once I get the actual parts because I'm not 100% sure on the sizes and tolerances. I think it went pretty well and I think that this part will work fine.
 
