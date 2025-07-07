@@ -1,4 +1,11 @@
 (Most of these logs are writen late at night so please disregarde my spelling)
+
+July 3rd:
+I didn't have a ton of time today, but I made the set of arms that attaches. The second set of active electrodes onto the sides of the top of the head. This wasn't very difficult. It was about the same as making the other arms. I need a little bit of tweaking once I get the actual parts because I'm not 100% sure on the sizes and tolerances. I think it went pretty well and I think that this part will work fine.
+
+Total time spent one hour.
+
+
 July 1st: 
 I didn't have much free time today but I did spend some time making another set of arms that will hold the GND electrodes on the glasses, I used 3d sketch in fusion to do that and made is to the arms curve inward towards the person's forehead, I still need to make one more set which I will do next time.
 
