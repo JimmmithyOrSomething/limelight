@@ -1,4 +1,23 @@
 (Most of these logs are writen late at night so please disregarde my spelling)
+July 9th:
+Even better day
+
+Today I continued on my pcb the whole time. I first changed the shape to a thin rectangle about 1cmX10cm. Then I got all the parts in place and started routing it. This took a really long time because I kept stoping to change things that didn't work. I also needed extra thick wires for the signal carrying parts as well as the fact that this was my first time doing a copper pour, which wasn't that bad but I did keep cutting it off by mistake. Im mostly done with the PCB now I just need to review it and make a few more edits next time.
+
+**insert photo when I can**
+
+Total time spent 4.5h
+
+
+July 8th:
+Really good day today
+
+I finally finished my schematic, I looked it over a bunch then got started on my PCB, I wasn't really sure what shape I was going for at first so I just started with a fairly square rectangle. This is seeming to be a fairly complicated PCB with all the things I need to consider like shield and not hurting signals. at the end of my working time I realised it was much smarter to make a long thin rectangle than what I had so Ill make that change tomorrow.
+
+**insert photo when I have access**
+
+
+total time spent: 3h
 July 6th:
 
 I also didn't have much time today but i got some stuff done, I cleaned up my PCB connections and eddited the decoupling set up so it will hopefully work better.
