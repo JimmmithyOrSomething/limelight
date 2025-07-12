@@ -3,7 +3,10 @@
 | item | price | amount | link | info |
 | ------- | --- | --- |--- | --- |
 | Esp-32 | N/A | 1 | N/A |The brains of the system|
-| Esp-32 | N/A | 1 | N/A |The brains of the system|
+| PCB| N/A | 5 | N/A |Amp and wiring|
+|glasses	| free	| 1| 	N/A |	3d printable amp holder|
+|Electrodes	|109 |12	|	here |	For reading brainwaves|
+|Electrode gel	| 	10 | 1|	here	| For conductive connection|
 
 Glasses with built in EEG and EMG
 
