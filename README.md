@@ -8,7 +8,7 @@ created_at: "2025-05-26" "PCB" "glasses" "Electrodes" "Electrode gel"
 
 item | ESP-32 | PCB | | glasses | Electrodes| Electrode gel
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 
 
 Glasses with built in EEG and EMG
 
