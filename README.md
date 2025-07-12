@@ -6,7 +6,7 @@ description: " hi" "PCB" "glasses" "Electrodes" "Electrode gel"
 created_at: "2025-05-26" "PCB" "glasses" "Electrodes" "Electrode gel"
 ---
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+item | ESP-32 | PCB | | glasses | Electrodes| Electrode gel
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
