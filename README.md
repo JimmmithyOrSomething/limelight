@@ -1,18 +1,10 @@
 
----
-item: "ESP-32" "PCB" "glasses" "Electrodes" "Electrode gel"
-author: "Eamonn O'Brien" "PCB" "glasses" "Electrodes" "Electrode gel"
-description: " hi" "PCB" "glasses" "Electrodes" "Electrode gel"
-created_at: "2025-05-26" "PCB" "glasses" "Electrodes" "Electrode gel"
----
 
-item | ESP-32 | PCB | | glasses | Electrodes| Electrode gel
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 
+| item | price | amount | link | info |
+| ------- | --- | --- |--- | --- |
+| Esp-32 | N/A | 1 | N/A |The brains of the system|
+| Esp-32 | N/A | 1 | N/A |The brains of the system|
 
-| item | #1  | #2  |
-| ------- | --- | --- |
-| Seconds | 301 | 283 |
 Glasses with built in EEG and EMG
 
 I built this because I've always been so interested by our brains, our whole world and everything we know is a constuction of how they process senses and even in this small way I want to learn more about how they work.
