@@ -9,3 +9,9 @@ I built this because I've always been so interested by our brains, our whole wor
 <img width="1409" height="427" alt="image" src="https://github.com/user-attachments/assets/405cda73-df16-44bf-8927-c968d0947b71" />
 
 
+Item	Amount	Price	Link	info			
+ESP-32	1	I have one		The brains of the system		total price:	144
+PCB	5(min)	25	N/A	Amp and wiring			
+glasses	1	free	N/A	3d printable amp holder			
+Electrodes	12	109	here	For reading brainwaves			
+Electrode gel	1	10	here	For conductive connection			
