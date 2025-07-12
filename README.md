@@ -10,7 +10,7 @@ item | ESP-32 | PCB | | glasses | Electrodes| Electrode gel
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 
 
-| Attempt | #1  | #2  |
+| item | #1  | #2  |
 | ------- | --- | --- |
 | Seconds | 301 | 283 |
 Glasses with built in EEG and EMG
