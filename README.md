@@ -11,3 +11,9 @@ I built this because I've always been so interested by our brains, our whole wor
 
 
 
+---
+item: "ESP-32" "PCB" "glasses" "Electrodes" "Electrode gel"
+author: "Eamonn O'Brien"
+description: "This project is a wearable EEG and EMG that I'm building from scratch. Most devices like this are very expensive so I wanted to see if I can make one device for both EEG and EMG signals and use it to get wave data or prefore actions (ex: light turns on when you tense your arm)"
+created_at: "2025-05-26"
+---
