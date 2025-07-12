@@ -1,9 +1,4 @@
----
-item: "ESP-32" "PCB" "glasses" "Electrodes" "Electrode gel"
-author: "Eamonn O'Brien" "PCB" "glasses" "Electrodes" "Electrode gel"
-description: " hi" "PCB" "glasses" "Electrodes" "Electrode gel"
-created_at: "2025-05-26" "PCB" "glasses" "Electrodes" "Electrode gel"
----
+
 ---
 title: "Limelight EEG/EMG"
 author: "Eamonn O'Brien"
