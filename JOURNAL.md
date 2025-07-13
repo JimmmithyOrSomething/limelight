@@ -14,7 +14,7 @@ created_at: "2025-05-26"
 July 9th:
 Even better day
 
-Today I continued on my pcb the whole time. I first changed the shape to a thin rectangle about 1cmX10cm. Then I got all the parts in place and started routing it. This took a really long time because I kept stoping to change things that didn't work. I also needed extra thick wires for the signal carrying parts as well as the fact that this was my first time doing a copper pour, which wasn't that bad but I did keep cutting it off by mistake. Im mostly done with the PCB now I just need to review it and make a few more edits next time.
+Today I continued on my pcb the whole time. I first changed the shape to a thin rectangle about 1cmX10cm. Then I got all the parts in place and started routing it. This took a really long time because I kept stoping to change things that didn't work. I also needed extra thick wires for the signal carrying parts as well as the fact that this was my first time doing a copper pour, which wasn't that bad but I did keep cutting it off by mistake. This was also my first time doing a project that needed sheilding for the EEG signals which was a little complecated but I understand it now. Im mostly done with the PCB now I just need to review it and make a few more edits next time.
 
 <img width="1860" height="799" alt="image" src="https://github.com/user-attachments/assets/82887a9d-c9e7-4d6e-96e3-0927c71d9d9e" />
 
