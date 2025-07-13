@@ -9,6 +9,16 @@ created_at: "2025-05-26"
 
 (Most of these logs are writen late at night so please disregarde my spelling)
 
+July 12th and 13th:
+I worked on finishing my github and getting all my files in order before I submit it. Then I found the parts I need to make this change between an EEG and an EMG. I need to buy them in bluck so I have to order 520 in total hopfully I can have them ship with the PCB to save on shipping but I'm not sure if I can. Finaly I made some cosmetic upgrades.
+
+<img width="1603" height="692" alt="Screenshot 2025-07-13 173125" src="https://github.com/user-attachments/assets/c0167811-f9d6-4eed-b282-dc1a09852fff" />
+
+
+total time 1.5h
+
+
+
 
 
 July 9th:
