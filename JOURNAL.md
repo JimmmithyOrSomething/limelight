@@ -6,6 +6,8 @@ created_at: "2025-05-26"
 ---
 
 
+total time spent: 38.75h
+
 
 (Most of these logs are writen late at night so please disregarde my spelling)
 
