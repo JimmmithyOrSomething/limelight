@@ -29,6 +29,7 @@ Even better day
 Today I continued on my pcb the whole time. I first changed the shape to a thin rectangle about 1cmX10cm. Then I got all the parts in place and started routing it. This took a really long time because I kept stoping to change things that didn't work. I also needed extra thick wires for the signal carrying parts as well as the fact that this was my first time doing a copper pour, which wasn't that bad but I did keep cutting it off by mistake. This was also my first time doing a project that needed sheilding for the EEG signals which was a little complecated but I understand it now. Im mostly done with the PCB now I just need to review it and make a few more edits next time.
 
 <img width="1860" height="799" alt="image" src="https://github.com/user-attachments/assets/82887a9d-c9e7-4d6e-96e3-0927c71d9d9e" />
+<img width="1170" height="652" alt="Screenshot 2025-08-14 at 4 39 07 PM" src="https://github.com/user-attachments/assets/39b6f4c3-efb3-4b17-8d0b-42672aee25db" />
 
 
 Total time spent 4.5h
@@ -58,6 +59,8 @@ I didn't have too much time today but I went back into my PCB and got some work 
 total time spent 1h;
 July 3rd:
 I didn't have a ton of time today, but I made the set of arms that attaches. The second set of active electrodes onto the sides of the top of the head. This wasn't very difficult. It was about the same as making the other arms. I need a little bit of tweaking once I get the actual parts because I'm not 100% sure on the sizes and tolerances. I think it went pretty well and I think that this part will work fine.
+<img width="1085" height="660" alt="Screenshot 2025-08-14 at 4 34 23 PM" src="https://github.com/user-attachments/assets/89431d2f-e820-4516-8d5b-f818a0aeea02" />
+<img width="1099" height="658" alt="Screenshot 2025-08-14 at 4 34 53 PM" src="https://github.com/user-attachments/assets/581ce8a4-f27a-4a7d-a76f-87211e334102" />
 
 Total time spent one hour.
 
@@ -108,7 +111,7 @@ Total time spent: 5h
 June 1s:
 Today I finished my fake brain and confirmed my choice to intergrate muscles, then i started on the PCB and got a bunch done it went farily smooth but not to much happen that I need to report, It will definetly need a lot more work but I got a fair bit done. I really want to write more but I don't have much to say.
 <img width="1170" height="652" alt="Screenshot 2025-08-14 at 4 16 53 PM 2" src="https://github.com/user-attachments/assets/5c25e8a0-7082-4844-8658-a6b42d810e1f" />
-
+<img width="1170" height="650" alt="Screenshot 2025-08-14 at 4 23 49 PM" src="https://github.com/user-attachments/assets/5da3eb42-67de-49e1-afed-f66063f189e9" />
 Total time spent: 3h
 
 
@@ -139,17 +142,20 @@ I looked into what electodes i'll need because I've never worked with them befor
 I started to build a fake brain for the esp 32 to look at insted of an acutal brain for now so I can make a test version of my firmware and then upgrade when I get the rest of the parts.
 I can't get my ESP to connect well and I have spent 2 hours trying to get this to work.
 
+<img width="1170" height="630" alt="Screenshot 2025-08-14 at 4 22 53 PM" src="https://github.com/user-attachments/assets/0103686d-fd0c-4a7b-b712-9b0a43ba793f" />
+
 Total time spent: 2.5h
 May 27 - 28th:
 (please ignore spelling I'm tired)
 I was sick for these two days so I can't really expect to get much done but I did start some research on how this whole thing will work and how I need to process the data. I know that becuase I'm going to be getting a bunch of 12 bit values from the sensors I need an FFT to be able to understand what the data means then I can convert it into Hz which I can work with. (I also thought about looking into some ML beucase I need to be able to recognise patterns but I'll probably wait for V2 to do that with a more powerfull MCU and a few other upgrades) 
 
 
+
 Total time spent: 1.5h
 May 26th:
-Today I realised that this project won't work beucase I've been looking at the physics all wrong and if I really wanted to have a chance at this I would need alot more money and a full on lab, neither of which I have. 
+. 
 
-But I also came up with a new idea so YAY :) . Basicaly my new idea is part one of a two part plan I'm hoping to make both parts durring Highway but that might not happen so both parts are useable seprately. My idea is a pair of glasses hooked up to EEG pads connected to a PCB with something like an ESP 32 processor running some clever math to hopefully be able to tell what state the users brain is in. (I do understand that I won't be getting very acurate readings but this is just the orignal version of something I'm hopeing to make a more complex version of in the years to come, I already have ideas of how to make this much more accurate but I'm keeping it simple for V1) 
+ I came up with a new idea so YAY :) . Basicaly my new idea is part one of a two part plan I'm hoping to make both parts durring Highway but that might not happen so both parts are useable seprately. My idea is a pair of glasses hooked up to EEG pads connected to a PCB with something like an ESP 32 processor running some clever math to hopefully be able to tell what state the users brain is in. (I do understand that I won't be getting very acurate readings but this is just the orignal version of something I'm hopeing to make a more complex version of in the years to come, I already have ideas of how to make this much more accurate but I'm keeping it simple for V1) 
 
 The formfactor for these is going to hopefully be a pair of glasses with a few sensor pads on them and I think they will be able to serve a bunch of diffrent perposes like reminding the user if they stop paying attention (which happens to me when I'm tired). But mostly these are going to be a learing expierance and hopefully a really cool project. 
 
