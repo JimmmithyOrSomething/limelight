@@ -107,6 +107,7 @@ Total time spent: 5h
 
 June 1s:
 Today I finished my fake brain and confirmed my choice to intergrate muscles, then i started on the PCB and got a bunch done it went farily smooth but not to much happen that I need to report, It will definetly need a lot more work but I got a fair bit done. I really want to write more but I don't have much to say.
+<img width="1170" height="652" alt="Screenshot 2025-08-14 at 4 16 53 PM 2" src="https://github.com/user-attachments/assets/5c25e8a0-7082-4844-8658-a6b42d810e1f" />
 
 Total time spent: 3h
 
